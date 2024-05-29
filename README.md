@@ -1,2 +1,2 @@
 # GymApp
-Aplicativo Mobile desenvolvido em Flutter
+Aplicativo Mobile desenvolvido em React Native
